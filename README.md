@@ -19,4 +19,5 @@
 7. write a program to print swapping two elements
 <img width="914" height="133" alt="image" src="https://github.com/user-attachments/assets/087c5e7a-2439-408b-9eed-f3cb37981d95" />
 
-8. write a program to 
+8. write a program to print range of elements
+<img width="918" height="80" alt="image" src="https://github.com/user-attachments/assets/2187405d-b93c-49fa-9f6d-32d88034e17f" />
