@@ -21,3 +21,30 @@
 
 8. write a program to print range of elements
 <img width="918" height="80" alt="image" src="https://github.com/user-attachments/assets/2187405d-b93c-49fa-9f6d-32d88034e17f" />
+
+9. write a program to print factorial of a number
+<img width="933" height="219" alt="image" src="https://github.com/user-attachments/assets/2b5d75aa-9942-43d3-9698-8e033b364bd9" />
+
+10. write a program to print fibonacci sequence
+<img width="923" height="175" alt="image" src="https://github.com/user-attachments/assets/fd35dd9b-db3b-414c-995b-024992f37f27" />
+
+11. write a program to print multiplication Table
+<img width="915" height="265" alt="image" src="https://github.com/user-attachments/assets/41514131-8a31-4465-8bfe-ed202d4d02e8" />
+
+12. write a program to print
+
+13.  write a program to print
+
+14. write a program to print
+
+15. write a program to print
+
+16. write a program to print
+
+17. write a program to print
+
+18. write a program to print
+
+19. write a program to print
+
+20. write a program to print
